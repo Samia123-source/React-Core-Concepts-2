@@ -17,6 +17,8 @@ export default function Users() {
 }
 
 
-//declare a state to hold the data
-//useEffect with call back and dependency array.
-//use fetch to load data
+//1.declare a state to hold the data
+//2.useEffect with call back and dependency array.
+//3.use fetch to load data
+//4. set loaded data to the state
+//5. display data on the component
